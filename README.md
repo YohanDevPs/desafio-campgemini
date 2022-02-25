@@ -4,7 +4,7 @@
 
 ### Para rodar a aplicação, instale o JDK em sua máquina e:
 - Importe para sua IDE de preferência, e execute cada questão individualmente;
-- Para executar o projeto no terminal windows Mac siga esses passos (processo semelhante com Mac):
+- Para executar o projeto no terminal Windows siga esses passos (processo semelhante com Mac):
 1. Navegue até a pasta que contenha o arquivo java utilizando os comandos cd para sair da pasta atual, dir para listar as pastas e entre nas mesmas digitando o caminho por seus nomes.
 2. Encontre o arquivo .java, em sequida apenas execute com enter, caso orocrra algum erro, o prompt de comando deve alertar.
 
